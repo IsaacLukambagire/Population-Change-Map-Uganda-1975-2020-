@@ -8,5 +8,7 @@ It shows shows areas that are inhabited, those have declinig human settlement, a
 # Data Source
 This map is based on data from European Commission via the link - https://ghsl.jrc.ec.europa.eu/download.php?ds=pop. They use population census data capture from differents contries national statistics databases.
 
+Considerations: Product- GHS-POP, Epoch - 1975-2020, Resolution- 3 arcsec, Coord. system - WGS84
+
 # Outcomes
 
