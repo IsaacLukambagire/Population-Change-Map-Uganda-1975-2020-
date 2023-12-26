@@ -6,7 +6,7 @@ This is a popuplation change map for Uganda [Sub-saharan Africa].
 It shows shows areas that are inhabited, those have declinig human settlement, and ones with exponetial growth of human settlement between 1975-2020.
 
 # Data Source
-This map is based on data from European Commission via the link - https://ghsl.jrc.ec.europa.eu/download.php?ds=pop. They use population census data capture from differents contries national statistics databases.
+This map is based on data from European Commission via the link - https://ghsl.jrc.ec.europa.eu/download.php?ds=pop. They use population census data capture from differents countries national statistics databases.
 
 Considerations: Product- GHS-POP, Epoch - 1975-2020, Resolution- 3 arcsec, Coord. system - WGS84
 
